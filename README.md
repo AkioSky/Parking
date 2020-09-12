@@ -1,4 +1,4 @@
-# Parking
+# Installation
 
 - Install requirements.txt on your virtual enviroment.
 ```bash
